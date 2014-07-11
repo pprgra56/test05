@@ -18,6 +18,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 //do sth cq
+    
+    //只是载体加
 }
 
 - (void)didReceiveMemoryWarning {
